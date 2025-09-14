@@ -2,10 +2,12 @@
 
 A modern React web application for tracking stock prices with real-time updates, search functionality, and detailed stock information.
 
+## Screenshot:
+
 ![Stock Watchlist Main View](screenshotstock.png)
 
 
-How to Run the Project:
+### How to Run the Project:
 
 Prerequisites: 
 Node.js (v14 or higher) 
