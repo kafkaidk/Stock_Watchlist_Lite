@@ -1,5 +1,9 @@
 Stock Watchlist Lite
 A modern React web application for tracking stock prices with real-time updates, search functionality, and detailed stock information.
+## Screenshots
+
+### Main Dashboard
+![Main View](screenshotstock.png)
 
 How to Run the Project:
 
